@@ -1,36 +1,101 @@
-# Leonardo Furlan Berton
-**Computer Science Student @ UTFPR | Software Developer**
-
----
-
-### 🖋️ Sobre
-Sou graduando em Ciência da Computação e desenvolvedor focado em soluções eficientes. No dia a dia, utilizo **Arch Linux** como base para produtividade e automação. Atualmente, estou procurando estágio na área de tecnologia.
-
-### 🛠️ Stack Técnica
-* **Linguagens:** C++, Python, JavaScript (Node.js), SQL.
-* **Frontend:** React, CSS, HTML.
-* **Sistemas:** Arch Linux, Bash, SSH/Samba, Git.
-* **Database:**  PostgreSQL, SQLite, MySQL.
-
----
-
-### 🚀 Projetos em Destaque
-
-* **[Sistema de Vendas](https://github.com/leo-furlan12/sistema-vendas):** Gerenciador de estoque e lucros desenvolvido em C++ para automação de e-commerce local.
----
-
-### 📊 Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-furlan12&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=adbac7&icon_color=7aa2f7&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-furlan12&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=adbac7&icon_color=7aa2f7&bg_color=0D1117&langs_count=6" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:047a39,100:0077B5&height=200&section=header&text=Leonardo%20Furlan%20Berton&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%40%20UTFPR&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://github.com/leo-furlan12">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+o+Leonardo!;Desenvolvedor+de+Software;Entusiasta+de+Linux+e+Automa%C3%A7%C3%A3o;Buscando+minha+primeira+vaga+de+est%C3%A1gio!&font=Fira+Code&center=true&width=520&height=45&duration=3000&pause=1000&color=047A39&vCenter=true&size=22" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-aberto_a_oportunidades-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/localização-Paraná,_Brasil-0077B5?style=for-the-badge&logo=google-maps&logoColor=white"/>
+
 </div>
 
----
+<br/>
 
-### 📬 Contato
-[![Website](https://img.shields.io/badge/Website-101010?style=flat-square&logo=google-chrome&logoColor=white)](https://leo-furlan12.github.io/Cartao_de_visitas/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-furlan12)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardofurlanberton@gmail.com)
-![Location](https://img.shields.io/badge/PR-Brasil-047a39?style=flat-square)
+## 👨‍💻 Sobre mim
 
----
+Sou estudante do 5º período de Ciência da Computação na **UTFPR** e desenvolvedor focado em criar soluções eficientes e robustas. Uso **Linux** como base principal para produtividade, automação, desenvolvimento e gestão de servidores no meu dia a dia.
+
+> [!TIP]
+> 🎯 **Objetivo atual:** buscando minha primeira oportunidade de estágio na área de Tecnologia!
+
+> [!NOTE]
+> ⚙️ **Foco de estudo:** automação, infraestrutura de servidores locais (SSH, SMB) e desenvolvimento de sistemas.
+
+<br/>
+
+## 🛠️ Minha Stack
+
+<div align="center">
+
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js" />
+
+**Sistemas & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+<br/>
+<sub>+ SSH e SMB/Samba para gestão de servidores locais</sub>
+
+**Banco de Dados**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<br/>
+<sub>+ SQL</sub>
+
+**Frontend & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+
+</div>
+
+<br/>
+
+## 🐍 Minhas Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/leo-furlan12/leo-furlan12/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🚀 Projetos em Destaque
+
+<table>
+<tr>
+<td>
+
+### 🛒 [Sistema de Vendas](https://github.com/leo-furlan12/sistema-vendas)
+
+Ferramenta desenvolvida em **C++** focada no gerenciamento prático e automação de operações de e-commerce. Otimiza o controle de estoque e rastreia vendas, custos e lucros para facilitar a gestão financeira no dia a dia.
+
+`C++` `Gestão de Estoque` `Automação`
+
+**[🔗 Ver repositório](https://github.com/leo-furlan12/sistema-vendas)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📬 Vamos nos conectar!
+
+<div align="center">
+  <a href="https://leo-furlan12.github.io/Cartao_de_visitas/" target="_blank"><img src="https://img.shields.io/badge/Website-101010?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/leonardo-furlan12" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:leonardofurlanberton@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=leo-furlan12&color=047a39&style=for-the-badge&label=Visualizações+no+perfil"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:047a39&height=120&section=footer" width="100%"/>
