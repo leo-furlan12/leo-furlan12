@@ -73,11 +73,11 @@ Sou estudante do 5º período de Ciência da Computação na **UTFPR** e desenvo
 
 ### 🛒 [Sistema de Vendas](https://github.com/leo-furlan12/sistema-vendas)
 
-Ferramenta desenvolvida em **C++** focada no gerenciamento prático e automação de operações de e-commerce. Otimiza o controle de estoque e rastreia vendas, custos e lucros para facilitar a gestão financeira no dia a dia.
+Ferramenta desenvolvida em **Python** focada no gerenciamento prático e automação de operações de e-commerce. Otimiza o controle de estoque e rastreia vendas, custos e lucros para facilitar a gestão financeira no dia a dia.
 
 `C++` `Gestão de Estoque` `Automação`
 
-**[🔗 Ver repositório](https://github.com/leo-furlan12/sistema-vendas)**
+**[🔗 Ver repositório](https://github.com/leo-furlan12/Sistema-de-gerenciamento-de-vendas.git)**
 
 </td>
 </tr>
